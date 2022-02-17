@@ -24,7 +24,7 @@
 }
 
 .button {
-    margin-top: 70px;
+    margin-top: 30px;
     font-size: var(--font_h5);
     color: #fff;
     width: 170px;
@@ -36,7 +36,7 @@
 .save__img {
     max-width: 672px;
     grid-column: 2;
-    grid-row: 2 / span 2;
+    grid-row: 2/span 2;
 }
 
 
