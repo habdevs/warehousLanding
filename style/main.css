@@ -33,6 +33,12 @@
     border-radius: 50px;
 }
 
+.button:hover,
+.button:focus,
+.button:active {
+    background-color: var(--color-pink);
+}
+
 .save__img {
     max-width: 672px;
     grid-column: 2;

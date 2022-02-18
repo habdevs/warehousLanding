@@ -15,6 +15,12 @@
     margin-right: 121px;
 }
 
+.logo:hover,
+.logo:focus,
+.logo:active {
+    background-image: url('../assets/svg/Logo2.svg');
+}
+
 .navigation {
     margin-top: 69px;
     margin-right: auto;
@@ -42,5 +48,5 @@
 .nav__link:hover,
 .nav__link:focus,
 .nav__link:active {
-    color: var(--color-blue);
+    color: var(--color-purple);
 }
